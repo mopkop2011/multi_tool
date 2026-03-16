@@ -1,6 +1,7 @@
 this is a batch file that is a muultipurpuse IT helping hand.
 when u start the bat file it wil look something like this:
-`==== SYSTEM TOOLS (A) ====
+```
+==== SYSTEM TOOLS (A) ====
 A1 - Show IP Configuration
 A2 - Show System Information
 A3 - Task Manager
@@ -42,4 +43,4 @@ E1 - Shutdown
 E2 - Restart
 E3 - Log Off
 E4 - Exit
-`
+```
